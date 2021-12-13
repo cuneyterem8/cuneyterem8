@@ -3,6 +3,9 @@
 my previous Github adress;
 https://github.com/cuneyteremcs
 
+linkedin;
+https://www.linkedin.com/in/cuneyterem8/
+
 I will add my codes during the master study slowly
 
 <!---
