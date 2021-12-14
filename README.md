@@ -9,7 +9,7 @@ https://github.com/cuneyteremcs
 my algorithms codes are on Leetcode;
 https://leetcode.com/cnyt8/
 
-linkedin;
+my linkedin is;
 https://www.linkedin.com/in/cuneyterem8/
 
 I will add my codes during the master study slowly
