@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @cuneyterem8
 
+my machine learning codes are on Kaggle;
+https://www.kaggle.com/cuneyterem8
+
 my previous Github adress;
 https://github.com/cuneyteremcs
+
+my algorithms codes are on Leetcode;
+https://leetcode.com/cnyt8/
 
 linkedin;
 https://www.linkedin.com/in/cuneyterem8/
