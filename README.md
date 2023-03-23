@@ -162,9 +162,9 @@ plotting_accuracies(batch_accuracies, baseline_accuracies)
 
 ### Theory example from Deep learning class
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/deep_learning_for_visual_recognition/image1.png?raw=true" width="60%" height="60%">
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/deep_learning_for_visual_recognition/image1.png?raw=true" width="80%" height="70%">
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/deep_learning_for_visual_recognition/image2.png?raw=true" width="60%" height="60%">
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/deep_learning_for_visual_recognition/image2.png?raw=true" width="80%" height="70%">
 
 ### Theory example from Machine learning class
 
