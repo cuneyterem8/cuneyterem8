@@ -29,7 +29,7 @@ only exercises (not exams due to lack of preparation): [biomedical data science]
 
 <img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/humanoid_robots_lab/turtlebot2_map.gif?raw=true" width="60%" height="50%">
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/thesis_usable_security_privacy/thesis_website.gif?raw=true" width="60%" height="60%">
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/thesis_usable_security_privacy/thesis_website.gif?raw=true">
 
 
 ### Implementation example from Deep learning class
