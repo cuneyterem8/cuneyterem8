@@ -196,3 +196,7 @@ main classes: [final project: Helthscope App](https://github.com/cuneyteremcs/He
 compulsory classes: algorithms, programming, object-oriented software engineering, data structures, operating systems, database systems, calculus, linear algebra, probability and statistics
 
 internships: [System Administrator at Turkey Is Bank](https://github.com/cuneyteremcs/IsBank-Summer-Internship) (1.5 month), [Android Java Developer at Mia Technology](https://github.com/cuneyteremcs/MiaCamProject) (1 month)
+
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bilkent_transcript_1.JPEG" width="80%" height="70%">
+
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bilkent_transcript_2.JPEG" width="80%" height="70%">
