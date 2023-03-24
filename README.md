@@ -173,7 +173,13 @@ plotting_accuracies(batch_accuracies, baseline_accuracies)
 
 ### Java Software Engineer for 1 year
 
-I worked in the campaign software unit within the CRM software of TEB bank for about 1 year. [Turkish Economy Bank](https://en.wikipedia.org/wiki/T%C3%BCrk_Ekonomi_Bankas%C4%B1) is one of the 10 largest and oldest banks in Turkey, headquartered in Istanbul. During this period, I worked on tasks such as developing in-bank software with Java language and evam tool (in-bank software), updating existing codes, and designing applications for the needs of business units.
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/TEB_LOGO.png" width="40%" height="30%">
+
+I worked in the campaign software unit within the CRM software of TEB bank for about 1 year. [Turkish Economy Bank](https://en.wikipedia.org/wiki/T%C3%BCrk_Ekonomi_Bankas%C4%B1) is one of the 10 largest and oldest banks in Turkey, headquartered in Istanbul.
+
+During this period, I worked on tasks such as developing in-bank software with Java language and evam tool (in-bank software), updating existing codes, and designing applications for the needs of business units.
+
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/teb_doc.jpeg" width="80%" height="70%">
 
 # Computer Engineering Bachelor in Bilkent University
 
