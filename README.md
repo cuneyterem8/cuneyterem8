@@ -185,7 +185,7 @@ During this period, I worked on tasks such as developing in-bank software with J
 
 <img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/uni_bilkent.jpg">
 
-The Bilkent University is one of the best research-based universities in Turkey. The THE/QS rankings are 500 in the world in 2018 to 2023.
+The [Bilkent University](https://en.wikipedia.org/wiki/Bilkent_University) is one of the best research-based universities in Turkey. The THE/QS rankings are 500 in the world in 2018 to 2023.
 
 <img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bilkent_diploma.JPEG">
 
