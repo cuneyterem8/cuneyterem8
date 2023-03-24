@@ -7,7 +7,7 @@ The [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn) is on
 
 <img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/desk.JPEG?raw=true">
 
-Being the best university in Germany in the field of mathematics, Uni of Bonn has also adjusted its computer science department to have a solid mathematical foundation. For this reason, many courses are built on combining heavy mathematical theory and practical coding skills.
+Being the best university in Germany in the field of mathematics, Uni of Bonn has also adjusted its computer science department to have a solid mathematical foundation. For this reason, many courses are built on combining heavy mathematical theory and practical coding skills, and the language of instruction is 100% English.
 
 <img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bonn_diploma.JPEG?raw=true" width="80%" height="70%">
 
@@ -185,7 +185,7 @@ During this period, I worked on tasks such as developing in-bank software with J
 
 <img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/uni_bilkent.jpg">
 
-The [Bilkent University](https://en.wikipedia.org/wiki/Bilkent_University) is one of the top 5 research-based universities in Turkey. The THE/QS rankings are 500 in the world in 2018 to 2023.
+The [Bilkent University](https://en.wikipedia.org/wiki/Bilkent_University) is one of the top 5 research-based universities in Turkey, and it is located in Ankara. The THE/QS rankings are 500 in the world in 2018 to 2023.
 
 <img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bilkent_diploma.JPEG">
 
