@@ -175,7 +175,7 @@ plotting_accuracies(batch_accuracies, baseline_accuracies)
 
 <img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/TEB_LOGO.png" width="40%" height="30%">
 
-I worked in the campaign software unit within the CRM software of TEB bank for almost 1 year. [Turkish Economy Bank](https://en.wikipedia.org/wiki/T%C3%BCrk_Ekonomi_Bankas%C4%B1) is one of the 10 largest and oldest banks in Turkey, headquartered in Istanbul.
+I worked in the campaign software unit within the CRM software of TEB bank for almost 1 year. [Turkish Economy Bank](https://en.wikipedia.org/wiki/T%C3%BCrk_Ekonomi_Bankas%C4%B1) is one of the top 10 largest and oldest banks in Turkey, headquartered in Istanbul.
 
 During this period, I worked on tasks such as developing in-bank software with Java language and evam tool (in-bank software), updating existing codes, and designing applications for the needs of business units.
 
@@ -185,7 +185,7 @@ During this period, I worked on tasks such as developing in-bank software with J
 
 <img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/uni_bilkent.jpg">
 
-The [Bilkent University](https://en.wikipedia.org/wiki/Bilkent_University) is one of the best research-based universities in Turkey. The THE/QS rankings are 500 in the world in 2018 to 2023.
+The [Bilkent University](https://en.wikipedia.org/wiki/Bilkent_University) is one of the top 5 research-based universities in Turkey. The THE/QS rankings are 500 in the world in 2018 to 2023.
 
 <img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bilkent_diploma.JPEG">
 
