@@ -13,7 +13,7 @@ Being the best university in Germany in the field of mathematics, Uni of Bonn ha
 
 ## Lectures, Thesis, Labs, Seminars
 
-I took a total of 120 credits with a total of 14 courses and thesis+seminar from three different fields. All lecture details can be seen in files here with a summary of the content of each one of them. The transcript and diploma supplement can be seen [here](https://github.com/cuneyterem8/uni_bonn_background/tree/main/diplomas)
+I took a total of 120 credits with a total of 14 courses and thesis+seminar from three different fields. All lecture details can be seen in files here with a summary of the content of each one of them. The programming languages in classes are mostly Python and C++. The transcript and diploma supplement can be seen [here](https://github.com/cuneyterem8/uni_bonn_background/tree/main/diplomas)
 
 
 intelligence systems: [artificial life](https://github.com/cuneyterem8/uni_bonn_background/tree/main/artificial_life), [machine learning](https://github.com/cuneyterem8/uni_bonn_background/tree/main/machine_learning), [neural networks](https://github.com/cuneyterem8/uni_bonn_background/tree/main/neural_networks), [robot learning](https://github.com/cuneyterem8/uni_bonn_background/tree/main/robot_learning), [cognitive robotics](https://github.com/cuneyterem8/uni_bonn_background/tree/main/cognitive_robotics), [cognitive robotics lab](https://github.com/cuneyterem8/uni_bonn_background/tree/main/cognitive_robotics_lab), [humanoid robots lab](https://github.com/cuneyterem8/uni_bonn_background/tree/main/humanoid_robots_lab), [humanoid robots seminar](https://github.com/cuneyterem8/uni_bonn_background/tree/main/humanoid_robots_seminar)
@@ -189,3 +189,10 @@ The [Bilkent University](https://en.wikipedia.org/wiki/Bilkent_University) is on
 
 <img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bilkent_diploma.JPEG">
 
+The courses at the university highlight the combination of theory and practice, as well as algorithmic thinking, and the language of instruction is 100% English. During the university, I took many basic computer engineering courses as well as elective courses. The projects can be seen in my [previous github account](https://github.com/cuneyteremcs). The programming languages in classes are mostly Java and C++. The transcript and diploma supplements can be seen [here](https://github.com/cuneyterem8/uni_bonn_background/tree/main/diplomas). 
+
+main classes: [final project: Helthscope App](https://github.com/cuneyteremcs/HealthScope), software engineering project management, systems analysis and design, principles of engineering management, software product line engineering, artificial intelligence
+
+compulsory classes: algorithms, programming, object-oriented software engineering, data structures, operating systems, database systems, calculus, linear algebra, probability and statistics
+
+internships: [System Administrator at Turkey Is Bank](https://github.com/cuneyteremcs/HealthScope) (1.5 month), [Android Java Developer at Mia Technology](https://github.com/cuneyteremcs/MiaCamProject) (1 month)
