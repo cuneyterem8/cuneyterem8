@@ -195,4 +195,4 @@ main classes: [final project: Helthscope App](https://github.com/cuneyteremcs/He
 
 compulsory classes: algorithms, programming, object-oriented software engineering, data structures, operating systems, database systems, calculus, linear algebra, probability and statistics
 
-internships: [System Administrator at Turkey Is Bank](https://github.com/cuneyteremcs/HealthScope) (1.5 month), [Android Java Developer at Mia Technology](https://github.com/cuneyteremcs/MiaCamProject) (1 month)
+internships: [System Administrator at Turkey Is Bank](https://github.com/cuneyteremcs/IsBank-Summer-Internship) (1.5 month), [Android Java Developer at Mia Technology](https://github.com/cuneyteremcs/MiaCamProject) (1 month)
