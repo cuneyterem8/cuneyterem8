@@ -24,7 +24,7 @@ computer-vision-audio: [deep learning for visual recognition](https://github.com
 
 information systems: [thesis in usable security and privacy](https://github.com/cuneyterem8/uni_bonn_background/tree/main/thesis_usable_security_privacy), [usable security and privacy](https://github.com/cuneyterem8/uni_bonn_background/tree/main/usable_security_privacy), [it security](https://github.com/cuneyterem8/uni_bonn_background/tree/main/it_security), [sensor data fusion](https://github.com/cuneyterem8/uni_bonn_background/tree/main/sensor_data_fusion), [mobile communication](https://github.com/cuneyterem8/uni_bonn_background/tree/main/mobile_communication)
 
-only exercises (not exams due to lack of preparation): [biomedical data science](https://github.com/cuneyterem8/uni_bonn_background/tree/main/biomedical_data_science_hw_only), [humanoid robots](https://github.com/cuneyterem8/uni_bonn_background/tree/main/humanoid_robots_hw_only), [foundation of graphics](https://github.com/cuneyterem8/uni_bonn_background/tree/main/foundation_of_graphics_hw_only), [network security](https://github.com/cuneyterem8/uni_bonn_background/tree/main/network_security_hw_only)
+only exercises: [biomedical data science](https://github.com/cuneyterem8/uni_bonn_background/tree/main/biomedical_data_science_hw_only), [humanoid robots](https://github.com/cuneyterem8/uni_bonn_background/tree/main/humanoid_robots_hw_only), [foundation of graphics](https://github.com/cuneyterem8/uni_bonn_background/tree/main/foundation_of_graphics_hw_only), [network security](https://github.com/cuneyterem8/uni_bonn_background/tree/main/network_security_hw_only)
 
 
 ### Example images from labs and thesis 
