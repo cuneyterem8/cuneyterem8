@@ -1,22 +1,34 @@
 # Data Scientist at Haier Europe since Mar 2025
 
+- Haier Europe is the 3rd largest white appliance company in the world. I worked for the Italy HQ office 
+- Engineered and productionised deep‑learning demand‑forecast models (AutoGluon, AWS SageMaker) to predict the next 12 months of sales for 26 countries, delivering a 30 % accuracy gain versus the prior baseline
+- Built an automated workflow that extracts unstructured data from PDF invoices via LLMs (DeepSeek‑R1) orchestrated with LangChain, eliminating manual data entry and accelerating downstream reporting.
+
 # Side Project, Stock Price Prediction: 
 
-Creating a full‑stack stock‑forecasting web app that pulls monthly price series from yfinance, enriches them with statistical technical indicators, and serves 3‑month forecasts from AutoGluon deep‑learning models via Python.
-The JavaScript front‑end renders interactive prices by retrieving data via the FAST API and indicator graphs, while an embedded LangChain‑powered chatbot delivers conversational equity insights. 
-backend: Python, technical indicators, stocks data, JSON, PostgreSQL
-frontend: html, css, javascript, fastapi
-AI: time series deep learning, autogluon, LLM, langchain, chatbot, extraction,  semantic search, AI agent
-Roadmap includes semantic search on news and agent‑driven RAG analytics for deeper market intelligence.
+- Creating a full‑stack stock‑forecasting web app that pulls monthly price series from yfinance, enriches them with statistical technical indicators, and serves 3‑month forecasts from AutoGluon deep‑learning models via Python.
+- The JavaScript front‑end renders interactive prices by retrieving data via the FAST API and indicator graphs, while an embedded LangChain‑powered chatbot delivers conversational equity insights.
+  - backend: Python, technical indicators, stocks data, JSON, PostgreSQL
+  - frontend: html, css, javascript, fastapi
+  - AI: time series deep learning, autogluon, LLM, langchain, chatbot, extraction,  semantic search, AI agent
+- Roadmap includes semantic search on news and agent‑driven RAG analytics for deeper market intelligence.
 
 <img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_1.png" width="800">
 <img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_2.png" width="800">
 
 # Data Scientist at Beko (formerly Arcelik) for a 1-year
 
+- Beko (formerly Arcelik) is the 20th biggest white appliance company in the world.
+- Engineered and productionised deep‑learning demand forecast (AutoGluon, AWS SageMaker) to predict the next 12 months of sales for 50 countries, with a 40 % W-MAPE at the line level and improving planning accuracy.
+- Designed and deployed a vessel‑scheduling model (AutoGluon regression, classification) that predicts monthly ETD/ETA with 80 % accuracy, accelerating container turnaround and improving on‑time delivery performance.
+- Developed a statistical optimisation engine that analyses historic demurrage & detention data, establishes 95 % confidence windows for each route across 50 countries, and projects annual savings: US$250k.
+
 <img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/arcelik_work_doc.jpg" width=700>
 
 # Data Scientist as Freelancer for a 1-year
+
+- Built an end‑to‑end receipt‑processing pipeline that combines Google OCR/Speech APIs with Python (pandas) to convert images and audio into clean, structured transaction data for real‑time analytics.
+- Drove data‑driven marketing strategy by implementing market‑basket analysis, customer segmentation experiments; Apriori association‑rule mining delivered > 80 % predictive precision for recommendations.
 
 # Computer Science Master's Student at the University of Bonn
 
