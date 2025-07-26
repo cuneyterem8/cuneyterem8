@@ -1,3 +1,5 @@
+# Data Scientist at Haier Europe since Mar 2025
+
 # Side Project, Stock Price Prediction: 
 
 Creating a full‑stack stock‑forecasting web app that pulls monthly price series from yfinance, enriches them with statistical technical indicators, and serves 3‑month forecasts from AutoGluon deep‑learning models via Python.
@@ -10,7 +12,13 @@ Roadmap includes semantic search on news and agent‑driven RAG analytics for de
 <img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_1.png" width="800">
 <img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_2.png" width="800">
 
-# Computer Science Master in University of Bonn
+# Data Scientist at Beko (formerly Arcelik) for a 1-year
+
+<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/arcelik_work_doc.jpg" width=700>
+
+# Data Scientist as Freelancer for a 1-year
+
+# Computer Science Master's Student at the University of Bonn
 
 <img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/uni_bonn.jpg?raw=true">
 
