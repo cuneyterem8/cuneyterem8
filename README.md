@@ -1,3 +1,14 @@
+# Side Project, Stock Price Prediction: 
+
+Creating a full‑stack stock‑forecasting web app that pulls monthly price series from yfinance, enriches them with statistical technical indicators, and serves 3‑month forecasts from AutoGluon deep‑learning models via Python.
+The JavaScript front‑end renders interactive prices by retrieving data via the FAST API and indicator graphs, while an embedded LangChain‑powered chatbot delivers conversational equity insights. 
+backend: Python, technical indicators, stocks data, JSON, PostgreSQL
+frontend: html, css, javascript, fastapi
+AI: time series deep learning, autogluon, LLM, langchain, chatbot, extraction,  semantic search, AI agent
+Roadmap includes semantic search on news and agent‑driven RAG analytics for deeper market intelligence.
+
+<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_1.png" width="800">
+<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_2.png" width="800">
 
 # Computer Science Master in University of Bonn
 
