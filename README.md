@@ -23,8 +23,6 @@
 - Designed and deployed a vessel‑scheduling model (AutoGluon regression, classification) that predicts monthly ETD/ETA with 80 % accuracy, accelerating container turnaround and improving on‑time delivery performance.
 - Developed a statistical optimisation engine that analyses historic demurrage & detention data, establishes 95 % confidence windows for each route across 50 countries, and projects annual savings: US$250k.
 
-<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/arcelik_work_doc.jpg" width=700>
-
 # Data Scientist as Freelancer for a 1-year
 
 - Built an end‑to‑end receipt‑processing pipeline that combines Google OCR/Speech APIs with Python (pandas) to convert images and audio into clean, structured transaction data for real‑time analytics.
@@ -32,21 +30,18 @@
 
 # Computer Science Master's Student at the University of Bonn
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/uni_bonn.jpg?raw=true">
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/photos/uni_bonn.jpg?raw=true">
 
 The [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn) is one of the largest research-based universities in the world. The THE ranking is [89](https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking) and the QS ranking is [201](https://www.topuniversities.com/university-rankings/world-university-rankings/2023) in the world in 2023. 
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/desk.JPEG?raw=true">
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/photos/desk.JPEG?raw=true">
 
 Being the best university in Germany in the field of mathematics, Uni of Bonn has also adjusted its computer science department to have a solid mathematical foundation. For this reason, many courses are built on combining heavy mathematical theory and practical coding skills, and the language of instruction is 100% English.
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bonn_diploma.JPEG?raw=true" width="80%" height="70%">
-
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bonn_transcript_2.JPEG?raw=true" width="80%" height="70%">
 
 ## Lectures, Thesis, Labs, Seminars
 
-I took a total of 120 credits with a total of 14 courses and thesis+seminar from three different fields. All lecture details can be seen in files here with a summary of the content of each one of them. The programming languages in classes are mostly Python and C++. The transcript and diploma supplement can be seen [here](https://github.com/cuneyterem8/uni_bonn_background/tree/main/diplomas)
+I took a total of 120 credits with a total of 14 courses and thesis+seminar from three different fields. All lecture details can be seen in files here with a summary of the content of each one of them. The programming languages in classes are mostly Python and C++.
 
 
 intelligence systems: [artificial life](https://github.com/cuneyterem8/uni_bonn_background/tree/main/artificial_life), [machine learning](https://github.com/cuneyterem8/uni_bonn_background/tree/main/machine_learning), [neural networks](https://github.com/cuneyterem8/uni_bonn_background/tree/main/neural_networks), [robot learning](https://github.com/cuneyterem8/uni_bonn_background/tree/main/robot_learning), [cognitive robotics](https://github.com/cuneyterem8/uni_bonn_background/tree/main/cognitive_robotics), [cognitive robotics lab](https://github.com/cuneyterem8/uni_bonn_background/tree/main/cognitive_robotics_lab), [humanoid robots lab](https://github.com/cuneyterem8/uni_bonn_background/tree/main/humanoid_robots_lab), [humanoid robots seminar](https://github.com/cuneyterem8/uni_bonn_background/tree/main/humanoid_robots_seminar)
@@ -88,30 +83,22 @@ only exercises: [biomedical data science](https://github.com/cuneyterem8/uni_bon
 
 # Java Software Engineer for 1 year
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/TEB_LOGO.png" width="40%" height="30%">
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/photos/TEB_LOGO.png" width="40%" height="30%">
 
 I worked in the campaign software unit within the CRM software of TEB bank for almost 1 year. [Turkish Economy Bank](https://en.wikipedia.org/wiki/T%C3%BCrk_Ekonomi_Bankas%C4%B1) is one of the top 10 largest and oldest banks in Turkey, headquartered in Istanbul.
 
 During this period, I worked on tasks such as developing in-bank software with Java language and evam tool (in-bank software), updating existing codes, and designing applications for the needs of business units.
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/teb_doc.jpeg" width="80%" height="70%">
-
 # Computer Engineering Bachelor in Bilkent University
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/uni_bilkent.jpg">
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/photos/uni_bilkent.jpg">
 
 The [Bilkent University](https://en.wikipedia.org/wiki/Bilkent_University) is one of the top 5 research-based universities in Turkey, and it is located in Ankara. The THE/QS rankings are 500 in the world in 2018 to 2023.
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bilkent_diploma.JPEG">
-
-The courses at the university highlight the combination of theory and practice, as well as algorithmic thinking, and the language of instruction is 100% English. During the university, I took many basic computer engineering courses as well as elective courses. The projects can be seen in my [previous github account](https://github.com/cuneyteremcs). The programming languages in classes are mostly Java and C++. The transcript and diploma supplements can be seen [here](https://github.com/cuneyterem8/uni_bonn_background/tree/main/diplomas). 
+The courses at the university highlight the combination of theory and practice, as well as algorithmic thinking, and the language of instruction is 100% English. During the university, I took many basic computer engineering courses as well as elective courses. The projects can be seen in my [previous github account](https://github.com/cuneyteremcs). The programming languages in classes are mostly Java and C++.
 
 main classes: [final project: Helthscope App](https://github.com/cuneyteremcs/HealthScope), software engineering project management, systems analysis and design, principles of engineering management, software product line engineering, artificial intelligence
 
 compulsory classes: algorithms, programming, object-oriented software engineering, data structures, operating systems, database systems, calculus, linear algebra, probability and statistics
 
 internships: [System Administrator at Turkey Is Bank](https://github.com/cuneyteremcs/IsBank-Summer-Internship) (1.5 month), [Android Java Developer at Mia Technology](https://github.com/cuneyteremcs/MiaCamProject) (1 month)
-
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bilkent_transcript_1.JPEG" width="80%" height="70%">
-
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bilkent_transcript_2.JPEG" width="80%" height="70%">
