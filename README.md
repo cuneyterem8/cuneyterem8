@@ -1,7 +1,7 @@
 # Data Scientist at Haier Europe since Mar 2025
 
 - Haier Europe is the 3rd largest white appliance company in the world. I worked for the Italy HQ office 
-- Engineered and productionised deep‑learning demand‑forecast models (AutoGluon, AWS SageMaker) to predict the next 12 months of sales for 26 countries, delivering a 30 % accuracy gain versus the prior baseline
+- Engineered and productionised deep‑learning demand‑forecast models (AutoGluon, AWS SageMaker) to predict the next 12 months of sales for 26 countries, delivering a 20 % accuracy gain versus the prior baseline (55% AI forecast better in sku level)
 - Built an automated workflow that extracts unstructured data from PDF invoices via LLMs (DeepSeek‑R1) orchestrated with LangChain, eliminating manual data entry and accelerating downstream reporting.
 
 # Side Project, Stock Price Prediction: 
