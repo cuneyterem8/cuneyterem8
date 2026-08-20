@@ -24,7 +24,7 @@ Demurrage & Detention Tool
 
 Oneview.ai Media Add Tool
 
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool1.png?raw=true" width="80%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool1.png?raw=true">
 
 # Side Project, Stock Price Prediction: 
 
@@ -35,8 +35,8 @@ Oneview.ai Media Add Tool
   - AI: time series deep learning, autogluon, LLM, langchain, chatbot, extraction,  semantic search, AI agent
 - Roadmap includes semantic search on news and agent‑driven RAG analytics for deeper market intelligence.
 
-<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_1.png" width="80">
-<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_2.png" width="80">
+<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_1.png">
+<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_2.png">
 
 # Data Scientist at Beko (formerly Arcelik) for a 1-year
 
