@@ -1,10 +1,29 @@
 # Data Scientist at Haier Europe since Mar 2025
 
-- Haier Europe is the 3rd largest white appliance company in the world. I worked for the Italy HQ office 
+- Haier Europe is the 3rd largest white appliance company in the world. I worked for the Italy HQ office
 - Engineered and productionised deep‑learning demand‑forecast models (AutoGluon, AWS SageMaker) to predict the next 12 months of sales for 26 countries, delivering a 20 % accuracy gain versus the prior baseline (55% AI forecast better in sku level)
-- Built an automated workflow that extracts unstructured data from PDF invoices via LLMs (DeepSeek‑R1) orchestrated with LangChain, eliminating manual data entry and accelerating downstream reporting.
+- Engineered and deployed an AI-powered Demurrage & Detention platform, awarded at the Haier Europe Leadership Conference 2026 and used across 20+ European countries, automating previously manual logistics processes through LLM-based AI agents, RAG, SQL generation, automated Excel reporting, multi-source data integration, and intelligent invoice processing for 70+ users. Built daily storage, demurrage, and detention cost calculations and an OCR + regex + AI-based PDF invoice validation pipeline to detect potential overcharges and reduce port and carrier costs.
+- Engineered a paid-media and stock-monitoring platform for marketing teams across 20+ European countries, linking product availability with active advertising campaigns to automatically alert users when advertised SKUs become out of stock. Built plan vs. actual vs. budget dashboards and ad-spend management workflows to improve campaign control and reduce wasted media spend.
 
-<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/github_images/dd_tool8.png" width="800">
+Demurrage & Detention Tool
+
+<table>
+  <tr>
+    <td width="59%">
+      <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool1.jpeg?raw=true" width="100%">
+    </td>
+    <td width="41%">
+      <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool2.jpeg?raw=true" width="100%">
+    </td>
+  </tr>
+</table>
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool8.png?raw=true" width="100%">
+
+Oneview.ai Media Add Tool
+
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool1.png?raw=true" width="100%">
+
+[click on here for more detailes](https://github.com/cuneyterem8/company_projects/blob/main/README.md)
 
 # Side Project, Stock Price Prediction: 
 
