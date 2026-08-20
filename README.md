@@ -52,11 +52,11 @@ Oneview.ai Media Add Tool
 
 # Computer Science Master's Student at the University of Bonn
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/photos/uni_bonn.jpg?raw=true" width="80">
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/photos/uni_bonn.jpg?raw=true">
 
 The [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn) is one of the largest research-based universities in the world. The THE ranking is [89](https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking) and the QS ranking is [201](https://www.topuniversities.com/university-rankings/world-university-rankings/2023) in the world in 2023. 
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/photos/desk.JPEG?raw=true" width="80">
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/photos/desk.JPEG?raw=true">
 
 Being the best university in Germany in the field of mathematics, Uni of Bonn has also adjusted its computer science department to have a solid mathematical foundation. For this reason, many courses are built on combining heavy mathematical theory and practical coding skills, and the language of instruction is 100% English.
 
@@ -79,7 +79,7 @@ only exercises: [biomedical data science](https://github.com/cuneyterem8/uni_bon
 
 <img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/humanoid_robots_lab/turtlebot2_map.gif?raw=true" width="40%" height="30%">
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/thesis_usable_security_privacy/thesis_website.gif?raw=true" width="80">
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/thesis_usable_security_privacy/thesis_website.gif?raw=true">
 
 
 # certificate_projects
