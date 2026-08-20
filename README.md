@@ -20,7 +20,7 @@ Demurrage & Detention Tool
     </td>
   </tr>
 </table>
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool8.png?raw=true" width="80%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool8.png?raw=true">
 
 Oneview.ai Media Add Tool
 
