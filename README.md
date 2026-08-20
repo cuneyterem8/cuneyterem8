@@ -5,6 +5,8 @@
 - Engineered and deployed an AI-powered Demurrage & Detention platform, awarded at the Haier Europe Leadership Conference 2026 and used across 20+ European countries, automating previously manual logistics processes through LLM-based AI agents, RAG, SQL generation, automated Excel reporting, multi-source data integration, and intelligent invoice processing for 70+ users. Built daily storage, demurrage, and detention cost calculations and an OCR + regex + AI-based PDF invoice validation pipeline to detect potential overcharges and reduce port and carrier costs.
 - Engineered a paid-media and stock-monitoring platform for marketing teams across 20+ European countries, linking product availability with active advertising campaigns to automatically alert users when advertised SKUs become out of stock. Built plan vs. actual vs. budget dashboards and ad-spend management workflows to improve campaign control and reduce wasted media spend.
 
+[Click on here for more detailes](https://github.com/cuneyterem8/company_projects/blob/main/README.md)
+
 Demurrage & Detention Tool
 
 <table>
@@ -22,8 +24,6 @@ Demurrage & Detention Tool
 Oneview.ai Media Add Tool
 
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool1.png?raw=true" width="100%">
-
-[click on here for more detailes](https://github.com/cuneyterem8/company_projects/blob/main/README.md)
 
 # Side Project, Stock Price Prediction: 
 
