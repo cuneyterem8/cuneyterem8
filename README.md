@@ -13,18 +13,18 @@ Demurrage & Detention Tool
 <table>
   <tr>
     <td width="59%">
-      <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool1.jpeg?raw=true" width="100%">
+      <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool1.jpeg?raw=true" width="80%">
     </td>
     <td width="41%">
-      <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool2.jpeg?raw=true" width="100%">
+      <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool2.jpeg?raw=true" width="80%">
     </td>
   </tr>
 </table>
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool8.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool8.png?raw=true" width="80%">
 
 Oneview.ai Media Add Tool
 
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool1.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool1.png?raw=true" width="80%">
 
 # Side Project, Stock Price Prediction: 
 
@@ -35,8 +35,8 @@ Oneview.ai Media Add Tool
   - AI: time series deep learning, autogluon, LLM, langchain, chatbot, extraction,  semantic search, AI agent
 - Roadmap includes semantic search on news and agent‑driven RAG analytics for deeper market intelligence.
 
-<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_1.png" width="800">
-<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_2.png" width="800">
+<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_1.png" width="80">
+<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/spp_2.png" width="80">
 
 # Data Scientist at Beko (formerly Arcelik) for a 1-year
 
