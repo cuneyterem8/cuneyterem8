@@ -10,7 +10,7 @@
 
 Demurrage & Detention Tool
 
-<table>
+<table width="80%">
   <tr>
     <td width="47%">
       <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool1.jpeg?raw=true" width="100%">
