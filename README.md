@@ -4,6 +4,8 @@
 - Engineered and productionised deep‑learning demand‑forecast models (AutoGluon, AWS SageMaker) to predict the next 12 months of sales for 26 countries, delivering a 20 % accuracy gain versus the prior baseline (55% AI forecast better in sku level)
 - Built an automated workflow that extracts unstructured data from PDF invoices via LLMs (DeepSeek‑R1) orchestrated with LangChain, eliminating manual data entry and accelerating downstream reporting.
 
+<img src="https://github.com/cuneyterem8/cuneyterem8/blob/main/github_images/dd_tool8.png" width="800">
+
 # Side Project, Stock Price Prediction: 
 
 - Creating a full‑stack stock‑forecasting web app that pulls monthly price series from yfinance, enriches them with statistical technical indicators, and serves 3‑month forecasts from AutoGluon deep‑learning models via Python.
